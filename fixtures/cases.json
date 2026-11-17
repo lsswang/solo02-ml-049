@@ -1,0 +1,9 @@
+{
+  "performance": [
+    {"id": "A", "pitch": 60, "on": 0, "off": 0.3, "sigma_on": 0.02, "sigma_off": 0.02},
+    {"id": "B", "pitch": 61, "on": 0.3, "off": 0.6, "sigma_on": 0.02, "sigma_off": 0.02}
+  ],
+  "seconds_per_tick": 0.1,
+  "offset": 0,
+  "request": {"initial_keys": [60, 48, 48, 48, 48, 48, 48, 48, 48, 48], "hand_spans": [12, 12]}
+}
